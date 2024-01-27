@@ -17,5 +17,3 @@ From concept to creation! Over 20+ LeetCode problems conquered are just the warm
 Follow my learning adventure on [X/Twitter](https://x.com/zainabdev?t=DHyZATM4140dmGUDUYLVSA&s=08) and [LinkedIn](www.linkedin.com/in/zainab-webdev), where I share code snippets, project updates, and all things tech. Let's connect and code together!
 
 **Looking forward to hearing from you!**
-
-#webdev #javascript #reactjs #fullstack #learningjourney
