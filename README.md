@@ -1,6 +1,6 @@
 ## Hey, I'm Zainab 👋
 
-👩‍🎓 I'm a Software Engineer Grad, with a strong passion for Web Dev with Daily Learning.
+👩‍🎓 I'm a Software Engineer Grad(3.7/4.0), with a strong passion for Web Dev with Daily Learning.
 
 ## 🧰ToolBox
 
