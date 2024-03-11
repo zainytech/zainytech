@@ -4,10 +4,10 @@
 
 ## 🧰ToolBox
 
-- **Languages/Libraries**: `React` `Redux-Toolkit` `RTK Query` `Antd` `JSX` `JS` `HTML` `CSS`
+- **Languages/Libraries**: `NextJS` `next-auth` `ReactJS` `Redux-Toolkit` `RTK Query` `JSX` `JS` `HTML` `CSS`
 - **Version Control**: `Git` `Gitbash`
 - **Code Editor**: `VS-Code` `Replit`
-- **Deployment**: `Netlify`
+- **Deployment**: `Netlify` `CI/CD Pipeline using Github & Netlify`
 
 ## 👾Full-Stack Aspirations Fueled by JavaScript and LeetCode
 From concept to creation! Over 20+ LeetCode problems conquered are just the warm-up. I built a Replit playground to showcase my JavaScript journey, and now, I'm diving headfirst into the domain of Next.js to expand my full-stack horizons!
