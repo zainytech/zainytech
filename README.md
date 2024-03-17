@@ -9,7 +9,7 @@
 - **Code Editor**: `VS-Code` `Replit`
 - **Deployment**: `Netlify` `CI/CD Pipeline using Github & Netlify`
 
-## 👾Full-Stack Aspirations Fueled by JavaScript and LeetCode
+## 👾Full-Stack Aspirations Fueled by JavaScript
 From concept to creation! Solved [LeetCode](https://leetcode.com/zainabrasheed4142/) problems for better understanding of the logic building. I built a [Replit](https://replit.com/@zainabrasheed41) playground to showcase my JavaScript journey, and now, I'm diving headfirst into the domain of Next.js to expand my full-stack horizons!
 
 ## 📮Want to connect with me?
