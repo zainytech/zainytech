@@ -4,7 +4,7 @@
 
 ## 🧰ToolBox
 
-- **Languages/Libraries**: `NextJS` `next-auth` `ReactJS` `Redux-Toolkit` `RTK Query` `JSX` `JS` `HTML` `CSS`
+- **Languages/Libraries**: `NextJS` `ReactJS` `TailwindCSS` `Redux-Toolkit` `RTK Query` `JSX` `JS` `HTML` `CSS`
 - **Version Control**: `Git` `Gitbash`
 - **Code Editor**: `VS-Code` `Replit`
 - **Deployment**: `Netlify` `CI/CD Pipeline using Github & Netlify`
