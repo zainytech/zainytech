@@ -1,19 +1,41 @@
-## Hey, I'm Zainab 👋
+# 👋 Hi, I'm Zainab Rasheed
 
-👩‍🎓 I'm a Software Engineer Grad(3.7/4.0), with a strong passion for Web Dev with Daily Learning.
+🚀 **Full Stack Software Engineer | AI-Driven Solutions | Web3 Integration**
 
-## 🧰ToolBox
+I’m a passionate Full Stack Developer with hands-on experience in **Next.js**, **Nest.js**, **PostgreSQL**, and **MongoDB**.  
+I specialize in building **AI-powered**, **scalable**, and **microservice-based applications**, integrating modern frontends with strong backend architecture.
 
-- **Languages/Libraries**: `NextJS` `ReactJS` `TailwindCSS` `Redux-Toolkit` `RTK Query` `JSX` `JS` `HTML` `CSS`
-- **Version Control**: `Git` `Gitbash`
-- **Code Editor**: `VS-Code` `Replit`
-- **Deployment**: `Netlify` `CI/CD Pipeline using Github & Netlify`
+---
 
-## 👾Full-Stack Aspirations Fueled by JavaScript
-From concept to creation! Solved [LeetCode](https://leetcode.com/zainabrasheed4142/) problems for better understanding of the logic building. I built a [Replit](https://replit.com/@zainabrasheed41) playground to showcase my JavaScript journey, and now, I'm diving headfirst into the domain of Next.js to expand my full-stack horizons!
+### 🧠 Core Expertise
+- **Frontend:** Next.js, React.js, Tailwind CSS, Redux Toolkit, Zustand  
+- **Backend:** Nest.js, Node.js, Express.js, RESTful APIs, Microservices  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps:** Docker, CI/CD, GitHub Actions, Vercel  
+- **AI & Automation:** Python microservices, Web Scraping, Automation Tools
+- **Web3:** Ether.js, Wagmi, Smart Contract Integration  
 
-## 📮Want to connect with me?
+---
 
-Follow my learning adventure on [𝕏](https://x.com/zainabdev?t=DHyZATM4140dmGUDUYLVSA&s=08) and [LinkedIn](www.linkedin.com/in/zainab-webdev), where I share code snippets, project updates, and all things tech. Let's connect and code together!
+### ⚙️ What I’m Working On
+- Developing **AI-integrated web platforms** with modular architecture  
+- Experimenting with **Web3 + AI** automation for decentralized applications  
+- Building **end-to-end test coverage** using Jest and Supertest  
 
-**Looking forward to hearing from you!**
+---
+
+### 🛠️ Tech Snapshot
+`JavaScript` • `TypeScript` • `Python` • `Next.js` • `Nest.js` • `React` • `Tailwind` • `Docker` • `PostgreSQL` • `MongoDB` • `Web3.js`
+
+---
+
+### 🌍 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/zainytech/)  
+- 🌐 [Portfolio](https://zainab-portfolio.netlify.app/)  
+- 🧑‍💻 [Current Organizational Github](https://github.com/zainabwork)  
+- ✉️ [Email](mailto:zainabrasheed4142@gmail.com)
+
+---
+
+> “Clean code, scalable design, and intelligent systems — that’s what I love to build.”
+
