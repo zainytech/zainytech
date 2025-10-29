@@ -7,6 +7,8 @@ I specialize in building **AI-powered**, **scalable**, and **microservice-based 
 
 ---
 
+## 🧑‍💻 [Current Active Organizational Github](https://github.com/zainabwork)
+  
 ### 🧠 Core Expertise
 - **Frontend:** Next.js, React.js, Tailwind CSS, Redux Toolkit, Zustand  
 - **Backend:** Nest.js, Node.js, Express.js, RESTful APIs, Microservices  
@@ -31,8 +33,7 @@ I specialize in building **AI-powered**, **scalable**, and **microservice-based 
 
 ### 🌍 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/zainytech/)  
-- 🌐 [Portfolio](https://zainab-portfolio.netlify.app/)  
-- 🧑‍💻 [Current Organizational Github](https://github.com/zainabwork)  
+- 🌐 [Portfolio](https://zainab-portfolio.netlify.app/)   
 - ✉️ [Email](mailto:zainabrasheed4142@gmail.com)
 
 ---
