@@ -1,42 +1,54 @@
 # 👋 Hi, I'm Zainab Rasheed
 
-🚀 **Full Stack Software Engineer | AI-Driven Solutions | Web3 Integration**
+🚀 **Full Stack Software Engineer (3+ Years) | AI Systems | Scalable Architecture | Web3 Integration**
 
-I’m a passionate Full Stack Developer with hands-on experience in **Next.js**, **Nest.js**, **PostgreSQL**, and **MongoDB**.  
-I specialize in building **AI-powered**, **scalable**, and **microservice-based applications**, integrating modern frontends with strong backend architecture.
+I’m a Full Stack Engineer with 3+ years of experience building **production-grade web and AI-driven applications** using **Next.js, Nest.js, PostgreSQL, and MongoDB**.
 
----
-
-## 🧑‍💻 [Current Active Organizational Github](https://github.com/zainabwork)
-  
-### 🧠 Core Expertise
-- **Frontend:** Next.js, React.js, Tailwind CSS, Redux Toolkit, Zustand  
-- **Backend:** Nest.js, Node.js, Express.js, RESTful APIs, Microservices  
-- **Databases:** PostgreSQL, MongoDB  
-- **DevOps:** Docker, CI/CD, GitHub Actions, Vercel  
-- **AI & Automation:** Python microservices, Web Scraping, Automation Tools
-- **Web3:** Ether.js, Wagmi, Smart Contract Integration  
+I specialize in designing **scalable backend systems**, **microservice architectures**, and **AI-powered platforms**, delivering end-to-end solutions from architecture to deployment.
 
 ---
 
-### ⚙️ What I’m Working On
-- Developing **AI-integrated web platforms** with modular architecture  
-- Experimenting with **Web3 + AI** automation for decentralized applications  
-- Building **end-to-end test coverage** using Jest and Supertest  
+## 🧑‍💻 Professional Work
+
+🔗 **Primary Work Account:** https://github.com/zainabwork
+
+> Most of my professional contributions (including private repositories, PRs, and enterprise systems) are under my organizational GitHub account.
 
 ---
 
-### 🛠️ Tech Snapshot
-`JavaScript` • `TypeScript` • `Python` • `Next.js` • `Nest.js` • `React` • `Tailwind` • `Docker` • `PostgreSQL` • `MongoDB` • `Web3.js`
+## 🧠 Core Expertise
+
+* **Frontend:** Next.js, React.js, Tailwind CSS, Zustand, Redux Toolkit
+* **Backend:** Nest.js, Node.js, Express.js, REST APIs, Microservices
+* **Databases:** PostgreSQL, MongoDB
+* **DevOps:** Docker, CI/CD, GitHub Actions, Vercel
+* **AI Systems:** Python microservices, automation, real-time processing
+* **Web3:** Smart contract integration (Ether.js, Wagmi)
 
 ---
 
-### 🌍 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/zainytech/)  
-- 🌐 [Portfolio](https://zainab-portfolio.netlify.app/)   
-- ✉️ [Email](mailto:zainabrasheed4142@gmail.com)
+## 🚀 Key Highlights
+
+* Built and delivered **AI-driven full-stack applications** with real-time capabilities
+* Architected **scalable REST APIs** with strong performance and maintainability
+* Developed **AI microservices** for automation and intelligent user interaction
+* Led frontend architecture and mentored developers in modern state management
+* Implemented **CI/CD pipelines, automated testing (Jest), and Docker deployments**
+* Integrated **Web3 smart contracts** into production applications
+
+
+## 🛠️ Tech Stack
+
+`JavaScript` • `TypeScript` • `Python` • `Next.js` • `Nest.js` • `React` • `Docker` • `PostgreSQL` • `MongoDB` • `Web3`
 
 ---
 
-> “Clean code, scalable design, and intelligent systems — that’s what I love to build.”
+## 🌍 Connect With Me
 
+* 💼 LinkedIn: https://www.linkedin.com/in/zainytech/
+* 🌐 Portfolio: https://zainab-portfolio.netlify.app/
+* ✉️ Email: [zainabrasheed4142@gmail.com](mailto:zainabrasheed4142@gmail.com)
+
+---
+
+> “I focus on building scalable systems, intelligent applications, and clean backend architectures that power real-world products.”
